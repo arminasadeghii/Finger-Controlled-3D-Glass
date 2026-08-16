@@ -116,9 +116,7 @@ Contains the geometry of the 3D glass and the logic related to the liquid inside
 
 Contains the Python packages required to run the project.
 
-### `models/hand_landmarker.task`
 
-The MediaPipe hand landmark model used by the hand tracker.
 
 ## Installation
 
