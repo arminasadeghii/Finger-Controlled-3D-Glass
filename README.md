@@ -96,8 +96,7 @@ finger-controlled-3d-glass/
 ├── requirements.txt
 ├── README.md
 │
-└── models/
-    └── hand_landmarker.task
+
 ```
 
 ### `main.py`
