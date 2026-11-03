@@ -37,7 +37,6 @@ python main.py
 
 **Requirements:** Python 3.x (see note below), a working webcam, and a graphics driver with OpenGL support.
 
-> ✏️ Replace "3.x" with the Python version you tested on (for example, 3.10), and pin package versions in `requirements.txt` (run `pip freeze` in your working environment). MediaPipe's API changes between releases, so pinned versions prevent surprises.
 
 ## 🎮 Controls
 
@@ -98,9 +97,7 @@ Finger-Controlled-3D-Glass/
 ├── cup_geometry.py    # Glass geometry and liquid representation
 ├── requirements.txt   # Python dependencies
 ├── README.md          # Project documentation
-├── .gitignore
-└── assets/
-    └── demo.gif       # Demo recording
+
 ```
 
 ## 🎨 Customization
