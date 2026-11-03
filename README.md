@@ -4,9 +4,6 @@ A small computer vision and 3D graphics experiment that lets you control a virtu
 
 Move your hand to rotate a 3D glass, pinch your fingers to fill it, and tilt it to pour the liquid. No mouse or keyboard is needed for the main interactions, just your hand.
 
-![Demo](assets/demo.gif)
-
-> 📸 Replace `assets/demo.gif` with a short recording of you rotating, filling, and pouring the glass.
 
 ## ✨ Features
 
